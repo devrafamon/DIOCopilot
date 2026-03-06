@@ -55,7 +55,6 @@ Cada bandeira possui **prefixos e formatos específicos**, que são reconhecidos
 Durante o desenvolvimento foi utilizado o **GitHub Copilot**, explorando recursos como:
 
 * Sugestões automáticas de código
-* Geração assistida de expressões regulares
 * Autocompletar de funções
 * Refinamento de lógica através de prompts
 
